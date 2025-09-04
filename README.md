@@ -6,7 +6,7 @@ Displays a small overlay window in the bottom-right corner of your screen showin
 
 ## Requirements
 ```bash
-pip install pynput
+pip install -r requirements.txt
 ```
 
 ## How to run
